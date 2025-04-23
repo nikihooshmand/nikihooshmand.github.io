@@ -29,3 +29,14 @@ a{
     padding:1em;
     
 }
+h1{
+    text-align: center;
+}
+#profile{
+    display: block;
+    margin: auto auto;
+    border-radius: 50%;
+    width: 175px;
+    height: 175px;
+
+}
