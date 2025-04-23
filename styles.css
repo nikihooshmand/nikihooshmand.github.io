@@ -34,9 +34,24 @@ h1{
 }
 #profile{
     display: block;
-    margin: auto auto;
+    
     border-radius: 50%;
     width: 175px;
     height: 175px;
+    margin:auto auto;
 
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    border-width: 20px;
+    
+}
+li{
+    float:left;
+    padding: 8px;
+}
+.active{
+    text-decoration: underline;
+    text-decoration-color: #517CE7 ;
 }
