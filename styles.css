@@ -19,3 +19,13 @@ a{
     
     
 }
+.contact-container{
+    display: flex;
+    justify-content: center;
+}
+
+.contact-icons{
+    width :90%;
+    padding:1em;
+    
+}
