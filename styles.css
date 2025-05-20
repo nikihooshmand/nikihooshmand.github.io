@@ -13,7 +13,7 @@ body{
 
 }
 a{
-    color:#517CE7 ;
+    color:#1349d2 ;
     text-decoration: none;
     font-weight: bold;
     
@@ -53,5 +53,5 @@ li{
 }
 .active{
     text-decoration: underline;
-    text-decoration-color: #517CE7 ;
+    text-decoration-color: #1349d2 ;
 }
